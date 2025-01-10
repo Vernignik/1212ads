@@ -1,1 +1,0 @@
-local fakeban = "This script was created by the creator of FISCH. It worked for 1 day. NOW WE HAVE BANNED YOU FOREVER.." game.Players.LocalPlayer:Kick(fakeban)
